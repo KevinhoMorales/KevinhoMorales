@@ -4,7 +4,7 @@
 
 > I don't want to be normal, I want to be ** different ** and leave a legacy to the world that everything is possible when you have it in your mind.
 
-Some languages that are on my mind everyday:
+#### Some languages that are on my mind everyday:
 
 * Swift
 * Java
@@ -13,20 +13,27 @@ Some languages that are on my mind everyday:
 * Python
 * Dart
 
-Others skills that I love it:
+#### Others skills that I love it:
 
 * Sketch
 * Figma
 * Adobe suite
 * Final Cut Pro
 
-My college career list:
+#### My college career list:
 
 * Electrical circuits
 * Digital circuits
 * Power circuits
 * Industrial networks
 * Control systems
+
+### Get in touch
+
+* GitHub -> [@KevinhoMorales](https://github.com/KevinhoMorales)
+* Twitter -> [@KevinhoMorales](https://twitter.com/KevinhoMorales)
+* Instagram -> [@KevinhoMorales](https://instagram.com/KevinhoMorales)
+* [Webstite](https://kevinhomorales.com)
 
 <!--
 **KevinhoMorales/KevinhoMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
