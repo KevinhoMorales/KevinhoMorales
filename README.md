@@ -1,4 +1,10 @@
-### Hi there, I'm Kevin! 👋
+# Hi there,
+
+## I'm Kevin! 👋
+
+### I'm proud to be **Ecuadorian**. Trusting in my God & family for get my dreams. Changing the world since 1994. Contact me to talk about any project. I consider myself a cheerful person with an innovative spirit capable of fulfilling all of his dreams and training me daily to be an excellent leader. I love going to the gym and keeping a healthy life.
+
+> I don't want to be normal, I want to be ** different ** and leave a legacy to the world that everything is possible when you have it in your mind.
 
 <!--
 **KevinhoMorales/KevinhoMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
