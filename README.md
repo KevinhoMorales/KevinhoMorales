@@ -17,16 +17,16 @@
 
 * Sketch
 * Figma
-* Adobe suite
+* Adobe Suite
 * Final Cut Pro
 
 #### My college career list:
 
-* Electrical circuits
-* Digital circuits
-* Power circuits
-* Industrial networks
-* Control systems
+* Electrical Circuits
+* Digital Circuits
+* Power Circuits
+* Industrial Networks
+* Control Systems
 
 ### Get in touch
 
