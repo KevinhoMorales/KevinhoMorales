@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin! 👨‍💻
 
-
+![alt text](https://www.pinclipart.com/picdir/big/318-3183886_my-swift-note-swift-programming-language-logo-clipart.png)
 
 ### I'm proud to be **Ecuadorian**. Trusting in my God & family for get my dreams. Changing the world since 1994. Contact me to talk about any project. I consider myself a cheerful person with an innovative spirit capable of fulfilling all of his dreams and training me daily to be an excellent leader. I love going to the gym and keeping a healthy life.
 
