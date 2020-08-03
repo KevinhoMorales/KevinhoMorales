@@ -1,8 +1,12 @@
-# Hi there, I'm Kevin! 👋👨‍💻
+# Hi there, I'm Kevin! 👨‍💻
+
+
 
 ### I'm proud to be **Ecuadorian**. Trusting in my God & family for get my dreams. Changing the world since 1994. Contact me to talk about any project. I consider myself a cheerful person with an innovative spirit capable of fulfilling all of his dreams and training me daily to be an excellent leader. I love going to the gym and keeping a healthy life.
 
 > Be **different** and leave a legacy to the world that everything is possible when you have it in your mind.
+
+I’m currently working on my personal projects and I’m looking to collaborate on new projects. 🤝
 
 #### Some languages that are on my mind everyday:
 
@@ -34,18 +38,3 @@
 * Twitter -> [@KevinhoMorales](https://twitter.com/KevinhoMorales)
 * Instagram -> [@KevinhoMorales](https://instagram.com/KevinhoMorales)
 * [Webstite](http://kevinhomorales.com)
-
-<!--
-**KevinhoMorales/KevinhoMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
