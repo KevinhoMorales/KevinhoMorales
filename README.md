@@ -1,4 +1,4 @@
-# Hi there, I'm Kevin! 👋
+# Hi there, I'm Kevin! 👋👨‍💻
 
 ### I'm proud to be **Ecuadorian**. Trusting in my God & family for get my dreams. Changing the world since 1994. Contact me to talk about any project. I consider myself a cheerful person with an innovative spirit capable of fulfilling all of his dreams and training me daily to be an excellent leader. I love going to the gym and keeping a healthy life.
 
