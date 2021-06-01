@@ -2,7 +2,11 @@
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/doistyapp.appspot.com/o/iOS%20Developer.png?alt=media&token=541c876f-de00-41b0-861b-40187034a74d)
 
-### I'm iOS Developer and I'm proud to be **Ecuadorian**. Trusting in my God & family for get my dreams. Changing the world since 1994. Contact me to talk about any project. I consider myself a cheerful person with an innovative spirit capable of fulfilling all of his dreams and training me daily to be an excellent leader. I love going to the gym and keeping a healthy life.
+### Hi! My name is Kevin and I'm passionate about technology. Apple world enthusiast. Proud to be Ecuadorian. Trusting God and my family to achieve my dreams. Leaving a mark since 1994. Son, father and husband.
+
+### I've been an iOS Developer in my professional life for more than 4 years, I have several apps in the App Store under my name and others where I have added my knowledge. I also have experience in Android Development with several apps. I'm a person with an entrepreneurial spirit and wanting to have challenges in my professional life. I train daily to be an excellent leader.
+
+### I love going to the GYM and stay a healthy life.
 
 > Be **different** and leave a legacy to the world that everything is possible when you have it in your mind.
 
