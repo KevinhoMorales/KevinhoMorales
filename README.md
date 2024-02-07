@@ -39,6 +39,6 @@ I’m currently working on my personal projects and I’m looking to collaborate
 ### Get in touch
 
 * GitHub -> [@KevinhoMorales](https://github.com/KevinhoMorales)
-* Twitter -> [@KevinhoMorales](https://twitter.com/KevinhoMorales)
+* X -> [@KevinhoMorales](https://twitter.com/KevinhoMorales)
 * Instagram -> [@KevinhoMorales](https://instagram.com/KevinhoMorales)
 * [Webstite](http://kevinhomorales.com)
