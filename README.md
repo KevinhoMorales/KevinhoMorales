@@ -4,7 +4,7 @@
 
 ### Hi! My name is Kevin and I'm passionate about technology. Apple world enthusiast. Proud to be Ecuadorian. Trusting God and my family to achieve my dreams. Leaving a mark since 1994. Son, father and husband.
 
-### I've been an iOS Developer in my professional life for more than 4 years, I have several apps in the App Store under my name and others where I have added my knowledge. I also have experience in Android Development with several apps. I'm a person with an entrepreneurial spirit and wanting to have challenges in my professional life. I train daily to be an excellent leader.
+### I've been an iOS Developer in my professional life for more than 7 years, I have several apps in the App Store under my name and others where I have added my knowledge. I also have experience in Android Development with several apps. I'm a person with an entrepreneurial spirit and wanting to have challenges in my professional life. I train daily to be an excellent leader.
 
 ### I love going to the GYM and stay a healthy life.
 
