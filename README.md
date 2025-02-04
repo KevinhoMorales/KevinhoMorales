@@ -2,11 +2,11 @@
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/doistyapp.appspot.com/o/iOS%20Developer.png?alt=media&token=541c876f-de00-41b0-861b-40187034a74d)
 
-### Hi! My name is Kevin and I'm passionate about technology. Apple world enthusiast. Proud to be Ecuadorian. Trusting God and my family to achieve my dreams. Leaving a mark since 1994. Son, father and husband.
+### My name is Kevin, and I’m deeply passionate about technology. With over 7 years of experience as an iOS and Android developer, I’ve had the privilege of developing and publishing several apps on both the App Store and Play Store—some under my name and others where I’ve contributed my expertise.
 
-### I've been an iOS Developer in my professional life for more than 7 years, I have several apps in the App Store under my name and others where I have added my knowledge. I also have experience in Android Development with several apps. I'm a person with an entrepreneurial spirit and wanting to have challenges in my professional life. I train daily to be an excellent leader.
+### I’m an entrepreneur at heart, constantly seeking new challenges in my professional journey. Every day, I dedicate myself to personal and professional growth, striving to become a better leader and to inspire those around me.
 
-### I love going to the GYM and stay a healthy life.
+### Podcast host of DevLokos and community lead for GDG Tsáchilas in Santo Domingo, Ecuador.
 
 > Be **different** and leave a legacy to the world that everything is possible when you have it in your mind.
 
