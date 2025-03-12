@@ -11,8 +11,8 @@ Beyond development, I’m an entrepreneur at heart, always seeking new challenge
 I also host the **DevLokos** podcast, where I dive into the world of technology with industry experts, and I lead **GDG Tsáchilas** in Santo Domingo, Ecuador, fostering collaboration and innovation.
 
 ## Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,java,androidstudio,docker,git,github,graphql,html,css,react,nodejs,aws,azure,linux,visualstudio,wordpress,gcp,dart,vercel)](https://skillicons.dev)
 
-kotlin,swift,java,androidstudio,docker,git,github,graphql,html,css,react,nodejs,aws,azure,linux,visualstudio,wordpress,gcp,dart,vercel
 
 ## Top Projects
 
