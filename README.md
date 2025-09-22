@@ -1,56 +1,63 @@
-## Hi there! 👋
+# 👋 Hi, I’m Kevin Morales  
 
-I'm Kevin Morales, a passionate developer dedicated to creating impactful projects that change the world! 🚀🧡
+🚀 **iOS & Android Developer | Entrepreneur | CEO @ Meniuz | Community Builder**  
 
-## About Me
+I’m passionate about crafting mobile experiences that make a real impact. With **7+ years of experience**, I’ve built and published apps for both the **App Store** and **Google Play**, working independently and as part of amazing teams.  
 
-I’m an iOS and Android developer with 7+ years of experience, passionate about building innovative solutions. I’ve developed and published multiple apps on the App Store and Play Store, both independently and as part of dynamic teams.
+Beyond coding, I’m driven by **entrepreneurship, leadership, and community**. I’m the **CEO & Co-Founder of Meniuz**, a platform that leverages **AI to transform how people explore and enjoy gastronomy**.  
 
-Beyond development, I’m an entrepreneur at heart, always seeking new challenges and pushing boundaries. I’m committed to continuous learning, honing my leadership skills, and inspiring others in the tech community.
+I also host the **DevLokos Podcast**, where I explore technology with industry experts, and I lead **GDG Tsáchilas** in Santo Domingo, Ecuador — creating spaces for collaboration and innovation.  
 
-I also host the **DevLokos** podcast, where I dive into the world of technology with industry experts, and I lead **GDG Tsáchilas** in Santo Domingo, Ecuador, fostering collaboration and innovation.
+---
 
-## Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,java,androidstudio,docker,git,github,graphql,html,css,react,nodejs,aws,azure,linux,visualstudio,wordpress,gcp,dart,vercel)](https://skillicons.dev)
+## 🧑‍💻 About Me  
+- 📱 Mobile Developer (iOS & Android) with **Kotlin, Swift & Jetpack Compose**.  
+- 👨‍💼 **CEO & Co-Founder of [Meniuz](https://meniuz.com)** – using **AI + context awareness** to revolutionize the gastronomic experience.  
+- 🌍 Strong believer in technology as a driver for change.  
+- 🎙 Host of **DevLokos Podcast**.  
+- 🌱 Always learning and experimenting with **AI, Cloud & modern architectures**.  
+- 🤝 Community lead at **GDG Tsáchilas**.  
 
+---
 
-## Top Projects
+## ⚡ Skills & Technologies  
 
-### Android & Kotlin
-- [**VertexAIKotlinJetpackCompose**](https://github.com/KevinhoMorales/VertexAIKotlinJetpackCompose) - Exploring **Vertex AI** with **Kotlin** and **Jetpack Compose**.  
-  ⭐ **0 stars** | 🛠 **Kotlin**  
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,java,androidstudio,react,nodejs,docker,git,github,graphql,aws,gcp,azure,linux,vercel,dart,flutter,html,css,wordpress,visualstudio)](https://skillicons.dev)  
 
-- [**MVVMKotlinExample**](https://github.com/KevinhoMorales/MVVMKotlinExample) - Implementation of the **MVVM** architectural pattern in **Kotlin**.  
-  ⭐ **0 stars** | 🛠 **Java**  
+---
 
-- [**WidgetKotlin**](https://github.com/KevinhoMorales/WidgetKotlin) - A **Kotlin** widget project for various applications.  
-  ⭐ **1 star** | 🛠 **Kotlin**  
+## 🚀 Featured Projects  
 
-### iOS & Swift
-- [**FollowersCountSwift**](https://github.com/KevinhoMorales/FollowersCountSwift) - A **Swift** app to track follower counts across platforms.  
-  ⭐ **0 stars** | 🛠 **Swift**  
+### Android & Kotlin  
+- [**VertexAIKotlinJetpackCompose**](https://github.com/KevinhoMorales/VertexAIKotlinJetpackCompose) – Exploring **Vertex AI** with **Jetpack Compose**.  
+- [**MVVMKotlinExample**](https://github.com/KevinhoMorales/MVVMKotlinExample) – Clean **MVVM architecture** in Kotlin.  
+- [**WidgetKotlin**](https://github.com/KevinhoMorales/WidgetKotlin) – Kotlin widget experiments.  
 
-- [**IGListSwiftSample**](https://github.com/KevinhoMorales/IGListSwiftSample) - Sample project demonstrating **IGListKit** in **Swift**.  
-  ⭐ **0 stars** | 🛠 **Swift**  
+### iOS & Swift  
+- [**FollowersCountSwift**](https://github.com/KevinhoMorales/FollowersCountSwift) – A simple **Swift app** to track follower counts.  
+- [**IGListSwiftSample**](https://github.com/KevinhoMorales/IGListSwiftSample) – Sample project using **IGListKit** in Swift.  
 
-## GitHub Stats
+---
 
-📊 **Public Repositories**: 135  
-👥 **Followers**: 23  
-👤 **Following**: 34  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinhoMorales&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
 
-## Recent Activity
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinhoMorales&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinhoMorales&layout=compact&theme=synthwave)  
 
-- Created [VertexAIKotlinJetpackCompose](https://github.com/KevinhoMorales/VertexAIKotlinJetpackCompose) on March 10, 2025.
-- Pushed updates to [FollowersCountSwift](https://github.com/KevinhoMorales/FollowersCountSwift) on March 8, 2025.
-- Created [IGListSwiftSample](https://github.com/KevinhoMorales/IGListSwiftSample) on February 21, 2025.
-- Pushed to [DeclarativeImperativeKotlinSample](https://github.com/KevinhoMorales/DeclarativeImperativeKotlinSample) on February 20, 2025.
+---
 
-## Latest Blog Posts
+## 📰 Latest Blog Posts  
 
-Check out my blog at [kevinhomorales.com](https://kevinhomorales.com) for insights and updates!
+👉 Check out [kevinhomorales.com](https://kevinhomorales.com) for articles on mobile development, AI & tech insights.  
 
-## Connect with Me
+---
 
-{"x":"https://x.com/KevinhoMorales","linkedin":"https://www.linkedin.com/in/kevinhomorales","instagram":"https://instagram.com/kevinhomorales"}
+## 🌐 Connect with Me  
+
+- 🐦 [X (Twitter)](https://x.com/KevinhoMorales)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevinhomorales)  
+- 📸 [Instagram](https://instagram.com/kevinhomorales)  
+
+---
+
+🌟 *Learn every day and you will become a new person.*
