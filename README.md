@@ -29,7 +29,7 @@ I also host the **DevLokos Podcast**, where I explore technology with industry e
 ## 🚀 Featured Projects  
 
 ### Android & Kotlin  
-- [**VertexAIKotlinJetpackCompose**](https://github.com/KevinhoMorales/VertexAIKotlinJetpackCompose) – Exploring **Vertex AI** with **Jetpack Compose**.  
+- [**StillWaitingSwift**](https://github.com/KevinhoMorales/StillWaitingSwift) – Exploring **Still Waiting** with **SwiftUI**.  
 - [**MVVMKotlinExample**](https://github.com/KevinhoMorales/MVVMKotlinExample) – Clean **MVVM architecture** in Kotlin.  
 - [**WidgetKotlin**](https://github.com/KevinhoMorales/WidgetKotlin) – Kotlin widget experiments.  
 
